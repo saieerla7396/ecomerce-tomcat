@@ -6,7 +6,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>ecommerce-tomcat-maven</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>4.0.0</version>
     <packaging>war</packaging>
 
     <name>ecommerce-tomcat-maven</name>
