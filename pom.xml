@@ -12,6 +12,8 @@
     <name>ecommerce-tomcat-maven</name>
 
     <properties>
+        <sonar.host.url>http://localhost:9000</sonar.host.url>
+        <sonar.token>squ_273fc2ce778964ce6ac455b10e753bc9f1b0deb1</sonar.token>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <failOnMissingWebXml>false</failOnMissingWebXml>
